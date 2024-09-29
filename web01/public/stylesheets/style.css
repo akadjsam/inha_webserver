@@ -1,0 +1,14 @@
+/* body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+} */
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+*{
+  font-family: "Jua", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
